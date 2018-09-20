@@ -1,5 +1,5 @@
 
-# cs111f2018-practical4-starter
+# cs100f2018-practical4-starter
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/), this
 repository contains the starter files for Practical 4 in Computer Science 100.
