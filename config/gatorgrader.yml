@@ -1,0 +1,24 @@
+---
+name: cmpsc-100-fall-2018-practical4
+break: true
+indent: 4
+---
+src/main:
+    java:
+        practicalfour/DisplayComplementaryDrawingCanvas.java:
+            --single 4 --language Java
+            --multi 2 --language Java
+            --fragment "new Date(" --count 1
+            --fragment "CANVAS_HEIGHT" --count 2
+            --fragment "CANVAS_WIDTH" --count 2
+            --fragment "RGB_MAXIMUM" --count 2
+            --fragment "redValue" --count 2
+            --fragment "greenValue" --count 2
+            --fragment "blueValue" --count 2
+            --fragment "Color" --count 4
+            --fragment "setFill(" --count 2
+            --fragment "new Rectangle" --count 2
+            --fragment "setTitle(" --count 1
+            --fragment "setScene(" --count 1
+            --fragment "show(" --count 1
+--commits 3
