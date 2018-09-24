@@ -55,6 +55,6 @@ script:
   - gradle clean
   - gradle check
   - gradle build
-  - gradle run
+  #- gradle run
   # GatorGrader: see config/gatorgrader.yml
   - gradle grade
